@@ -2,6 +2,8 @@ Frida Setup
 
 1. Install Frida on Kali Linux
 - pip install frida frida-tools
+or 
+pipx install frida-tools
 - frida --version
 
 2. Install & Run Frida Server on Android
